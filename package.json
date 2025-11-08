@@ -1,0 +1,14 @@
+{
+  "name": "nodebestpractices",
+  "version": "1.0.0",
+  "main": "gen-html.js",
+  "scripts": {
+    "lint": "markdownlint ./README*.md"
+  },
+  "author": "",
+  "license": "ISC",
+ 
+  "dependencies": {
+    "markdownlint-cli": "^0.18.0"
+  }
+}
